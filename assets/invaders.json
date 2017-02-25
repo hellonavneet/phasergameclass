@@ -1,0 +1,68 @@
+{"frames": [
+
+{
+	"filename": "bullet.png",
+	"frame": {"x":515,"y":113,"w":6,"h":36},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":6,"h":36},
+	"sourceSize": {"w":6,"h":36}
+},
+{
+	"filename": "enemy-bullet.png",
+	"frame": {"x":523,"y":136,"w":9,"h":9},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":9,"h":9},
+	"sourceSize": {"w":9,"h":9}
+},
+{
+	"filename": "explode.png",
+	"frame": {"x":1,"y":1,"w":1978,"h":110},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":35,"y":9,"w":1978,"h":110},
+	"sourceSize": {"w":2048,"h":128}
+},
+{
+	"filename": "invader.png",
+	"frame": {"x":553,"y":113,"w":16,"h":16},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":16,"h":16},
+	"sourceSize": {"w":16,"h":16}
+},
+{
+	"filename": "invader32x32x4.png",
+	"frame": {"x":515,"y":151,"w":125,"h":32},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":125,"h":32},
+	"sourceSize": {"w":128,"h":32}
+},
+{
+	"filename": "player.png",
+	"frame": {"x":523,"y":113,"w":28,"h":21},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":28,"h":21},
+	"sourceSize": {"w":28,"h":21}
+},
+{
+	"filename": "starfield.png",
+	"frame": {"x":1,"y":113,"w":512,"h":512},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":512,"h":512},
+	"sourceSize": {"w":512,"h":512}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "invaders.png",
+	"format": "RGBA8888",
+	"size": {"w":1980,"h":626},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:0d61c0f7e477ce653fda494a49747df7:a203b519edbf8114537aa3295b8394b4:07b06d80da278df51dae137e4fdbeb14$"
+}
+}
