@@ -50,7 +50,7 @@ var mainState ={
 
         createEnemies();
 
-        scoreText = game.add.text(0, 500, 'Scopre:', {font: '32px Arial', fill: '#fff'});
+        scoreText = game.add.text(0, 500, 'Score:', {font: '32px Arial', fill: '#fff'});
         winText = game.add.text(game.world.centerX, game.world.centerY, 'You Win!', {font: '32px Arial', fill: '#fff'});
 
         winText.visible = false;
@@ -79,7 +79,7 @@ var mainState ={
             fireBullet();
         }
 
-        scoreText.text = 'Scopre: ' + score;
+        scoreText.text = 'Score: ' + score;
 
         if(score === 4000) {
             winText.visible = true;
